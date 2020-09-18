@@ -1,2 +1,8 @@
 class Dog 
-  fido.Dognew
+  fido = Dog.new 
+  
+  snoopy = Dog.new 
+  
+  lassie = Dog.new 
+  
+end
